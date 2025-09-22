@@ -10,6 +10,13 @@ Saya memiliki pengalaman sebelumnya di bidang teknik, pemeliharaan mesin, dan ki
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/mohammad-firdauss/) ku ya. 🚀
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Lightbalsz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lightbalsz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lightbalsz&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **Lightbalsz/Lightbalsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
