@@ -1,4 +1,14 @@
-## Hi there 👋
+# Halo semua! 👋
+
+Perkenalkan nama saya **Mohammad Iqbal Firdaus**.<br>
+
+Saya seorang **peserta Bootcamp Data Science** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya sedang mendalami **Data Science, Machine Learning, dan Analisis Data** untuk membangun karier di bidang teknologi.<br>
+
+Saya memiliki pengalaman sebelumnya di bidang teknik, pemeliharaan mesin, dan kini sedang beralih ke dunia teknologi untuk bekerja secara remote.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/mohammad-firdauss/) ku ya. 🚀
 
 <!--
 **Lightbalsz/Lightbalsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
